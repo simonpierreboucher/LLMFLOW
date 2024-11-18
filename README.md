@@ -61,7 +61,7 @@ Whether you're building a multiple-choice question generator, a content summariz
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/llm-flow-framework.git
+git clone https://github.com/simonpierreboucher/LLMFLOW.git
 cd llm-flow-framework
 ```
 
